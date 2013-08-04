@@ -1,0 +1,8 @@
+{
+  "name": "node-rddit",
+  "version": "0.0.0",
+  "description": "Access the Reddit API through node",
+  "main": "index.js",
+  },
+  "author": "sanitypassing"
+}
